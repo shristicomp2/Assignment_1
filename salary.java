@@ -7,7 +7,6 @@ public class salary
     {
         r=R;
         hr=H;
-        
     }
     void calc()
     {
