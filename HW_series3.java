@@ -38,5 +38,5 @@ public class HW_series3
         obj.input();
         obj.fact();
         
-    }
+   }
 }
