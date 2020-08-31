@@ -1,3 +1,4 @@
+
 //Program to calculate the sum of digits in a number
 import java.util.Scanner;
 public class Digits2
